@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Properties",
+    "\\Views",
+    "\\Views\\Home",
+    "\\wwwroot",
+    "\\wwwroot\\css",
+    "\\wwwroot\\js",
+    "\\wwwroot\\lib",
+    "\\wwwroot\\lib\\bootstrap\\dist",
+    "\\wwwroot\\lib\\bootstrap\\dist\\css"
+  ],
+  "SelectedNode": "\\obj\\Release\\net6.0\\PROYECTO_EXCEL_CORE.RazorAssemblyInfo.cache",
+  "PreviewInSolutionExplorer": false
+}

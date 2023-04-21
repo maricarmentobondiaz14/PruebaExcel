@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Obtener un Excel";
+}
+
+@*<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>*@
+
+
+<h2>Reporte de Reglas</h2>
+<hr />
+<form asp-action="ExportarExcel" asp-controller="Home" method="post">
+
+    <div class="row align-items-end">
+
+        <div class="col-sm-2">
+            <button class="btn btn-success" type="submit">Descarga Reglas</button>
+        </div>
+    
+    </div>
+
+</form>
+<br />
+<hr />
